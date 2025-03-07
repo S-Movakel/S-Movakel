@@ -1,6 +1,6 @@
 ## <h1 align=" center">Hi Friends 👋, I'M Mohammad Sajjad Movakel</h1>
 
-**<h3 align="center">I am someone who should and will become a professional FRONT-END Developer.</h3>**
+**<h3 align="center">I am someone who should and will become a professional FRONT-END Developer. ✌️</h3>**
 
 <!--
 **S-Movakel/S-Movakel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
