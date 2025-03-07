@@ -1,4 +1,4 @@
-## Hi Friends 👋, I'M MOHAMMAD SAJJAD MOVAKEL
+## Hi Friends 👋, I'M Mohammad Sajjad Movakel
 
 **I am someone who should and will become a professional front-end developer.**
 
