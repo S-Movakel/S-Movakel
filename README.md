@@ -3,7 +3,7 @@
 **<h3 align="center">I am someone who should and will become a professional FRONT-END Developer. ✌️</h3>**
 
 
- # 🏆 <span style="font-size: 10px;">GITHUB PROFILE TROPHY</span>
+ # 🏆 <span style="font-size: 2px;">GITHUB PROFILE TROPHY</span>
 [![trophy](https://github-profile-trophy.vercel.app/?username=S-Movakel)](https://github.com/S-Movakel/github-profile-trophy)
 
 
