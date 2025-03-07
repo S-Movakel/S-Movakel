@@ -22,8 +22,6 @@
 🌍 I love traveling, **shall we go**?
 
 💬 You can **TALK** to me about **ANYTHING**. If I know, I'll **TEACH YOU**. If I don't, we'll **LEARN TOGETHER**.
-
------------------------------------------------------------------------------------------------------------------------------------------
 <br>
 
 #### 📧 CONTACT ME:
@@ -32,8 +30,6 @@ Please click on the **LINKS** below to contact me.
 [![**Instagram**](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/Movakelize.Dev)
 [![**LinkedIn**](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sajjadmovakel)
 [![**Gmail**](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:S.Movakel@gmail.com)
-
------------------------------------------------------------------------------------------------------------------------------------------
 <br>
 
 #### 🛠️ SKILLS:
@@ -54,10 +50,12 @@ Please click on the **LINKS** below to contact me.
 <br>
 
 ![S-Movakel GitHub stats](https://github-readme-stats.vercel.app/api?username=S-Movakel&show_icons=true&theme=transparent)
-
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
-<br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=s-movakel&theme=transparent"  width="500" height="500">
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=s-movakel&theme=transparent)
+
+
+
+
 
 <!--
 **S-Movakel/S-Movakel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
