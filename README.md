@@ -6,9 +6,9 @@
 <br>
 
 ### 🏆 GITHUB PROFILE TROPHY
+------------------------------------------------------------------------------------------------------------------------------------
 [![trophy](https://github-profile-trophy.vercel.app/?username=S-Movakel)](https://github.com/S-Movakel/github-profile-trophy)
 
-------------------------------------------------------------------------------------------------------------------------------------
 <br>
 
 #### 👨 ABOUT ME:
@@ -25,6 +25,7 @@
 <br>
 
 #### 📧 CONTACT ME:
+------------------------------------------------------------------------------------------------------------------------------------
 Please click on the **LINKS** below to contact me.
 
 [![**Instagram**](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/Movakelize.Dev)
