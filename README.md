@@ -3,7 +3,9 @@
 **<h3 align="center">I am someone who should and will become a professional FRONT-END Developer. ✌️</h3>**
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=S-Movakel)](https://github.com/S-Movakel/github-profile-trophy)
-![Trophies](https://github-profile-trophy.vercel.app/?username=S-Movakel&theme=onedark)
+![Trophie](https://img.shields.io/badge/Trophie-Gold-FFD700?style=for-the-badge&logo=stars&logoColor=white)
+
+![Trophie](https://img.shields.io/badge/Trophie-Gold-FFD700?style=for-the-badge&logo=stars&logoColor=white)
 
 
 <!--
