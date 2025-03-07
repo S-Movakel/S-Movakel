@@ -40,6 +40,7 @@
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" alt="FIGMA Logo" width="50" height="50">&nbsp;<img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg" alt="PHOTOSHOP Logo" width="50" height="50">&nbsp;&nbsp;&nbsp;<img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" alt="VSCODE Logo" width="50" height="50">&nbsp;&nbsp;&nbsp;<img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Git-logo.svg" alt="GIT Logo" width="50" height="50">
 <br>
+<br>
 
 #### 📧 CONTACT ME:
 ------------------------------------------------------------------------------------------------------------------------------------
