@@ -17,13 +17,13 @@
 -----------------------------------------------------------------------------------------------------------------------------------------
 👨‍💻 I'M FRONT-END developer
 
-🚀 I like to work on big and challenging projects ( suggest we do it together )
+🚀 I like to work on **BIG** and **CHALLENGING** projects ( suggest we do it **TOGETHER** )
 
-📚 I am always learning new things.
+📚 I am always learning **NEW THINGS**.
 
-🌍 I love traveling, shall we go?
+🌍 I love traveling, **shall we go**?
 
-📌 You can talk to me about anything. If I know, I'll teach you. If I don't, we'll learn together.
+💬 You can **TALK** to me about **ANYTHING**. If I know, I'll **TEACH YOU**. If I don't, we'll **LEARN TOGETHER**.
 
 
 <br>
@@ -62,6 +62,7 @@
 
 ![S-Movakel GitHub stats](https://github-readme-stats.vercel.app/api?username=S-Movakel&show_icons=true&theme=transparent)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=S-Movakel&layout=compact&theme=transparent)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=S-Movakel&theme=radical)
 <!--
 **S-Movakel/S-Movakel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
