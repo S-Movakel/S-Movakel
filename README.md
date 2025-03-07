@@ -48,7 +48,8 @@ Please click on the **LINKS** below to contact me.
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" alt="FIGMA Logo" width="50" height="50">&nbsp;<img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg" alt="PHOTOSHOP Logo" width="50" height="50">&nbsp;&nbsp;&nbsp;<img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" alt="VSCODE Logo" width="50" height="50">&nbsp;&nbsp;&nbsp;<img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Git-logo.svg" alt="GIT Logo" width="50" height="50">
 
------------------------------------------------------------------------------------------------------------------------------------------
+<br>
+<br>
 <br>
 
 ![S-Movakel GitHub stats](https://github-readme-stats.vercel.app/api?username=S-Movakel&show_icons=true&theme=transparent)
