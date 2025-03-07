@@ -1,4 +1,4 @@
-## Hi Friends 👋, I'M Mohammad Sajjad Movakel
+## <h1 align=" center">Hi Friends 👋, I'M Mohammad Sajjad Movakel</h1>
 
 **I am someone who should and will become a professional front-end developer.**
 
