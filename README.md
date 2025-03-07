@@ -2,6 +2,9 @@
 
 **<h3 align="center">I am someone who should and will become a professional FRONT-END Developer. ✌️</h3>**
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+
+
 <!--
 **S-Movakel/S-Movakel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
