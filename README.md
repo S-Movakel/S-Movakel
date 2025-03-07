@@ -50,10 +50,8 @@ Please click on the **LINKS** below to contact me.
 <br>
 
 ![S-Movakel GitHub stats](https://github-readme-stats.vercel.app/api?username=S-Movakel&show_icons=true&theme=transparent)
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=s-movakel&theme=transparent"  width="300" height="300">
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=s-movakel&theme=transparent)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=s-movakel&theme=transparent"  width="300" height="200">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=s-movakel&langs_count=6&theme=radical)
 
 
 
