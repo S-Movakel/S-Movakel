@@ -61,9 +61,8 @@
 
 
 ![S-Movakel GitHub stats](https://github-readme-stats.vercel.app/api?username=S-Movakel&show_icons=true&theme=transparent)
-<div style="height: 300px;">
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=s-movakel&theme=radical)
-</div>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=s-movakel&theme=radical)
+
 <!--
 **S-Movakel/S-Movakel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
