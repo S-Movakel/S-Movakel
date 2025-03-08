@@ -19,7 +19,7 @@
 
 📚 I am always learning **NEW THINGS**.
 
-🌍 I love traveling, **shall we go**?
+🌍 I love traveling, **SHALL WE GO**?
 
 💬 You can **TALK** to me about **ANYTHING**. If I know, I'll **TEACH YOU**. If I don't, we'll **LEARN TOGETHER**.
 <br>
